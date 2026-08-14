@@ -40,6 +40,5 @@ int main() {
     q.show();
     // point r = p.add(q);
     // r.show();
-    r.add(p, q);
     return 0;
 }
