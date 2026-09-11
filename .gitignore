@@ -1,4 +1,3 @@
 .vscode/
 *.exe
-/
-!Unit 1/
+*/*.exe
